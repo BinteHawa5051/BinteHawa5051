@@ -119,7 +119,6 @@ identity:
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/BinteHawa5051/BinteHawa5051/output/pacman-contribution-graph.svg" width="90%"/>
-<sub>Generated via a scheduled GitHub Action — see setup notes at the bottom of this file.</sub>
 
 </div>
 <br>
