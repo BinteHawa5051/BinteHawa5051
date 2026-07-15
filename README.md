@@ -117,8 +117,9 @@ identity:
 
 👻  Pac-Man Contribution Grid
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/BinteHawa5051/BinteHawa5051/output/pacman-contribution-graph.svg" width="90%"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/BinteHawa5051/BinteHawa5051/output/pacman-contribution-graph-dark.svg" width="90%">
+</p>
 
 </div>
 <br>
